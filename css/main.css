@@ -1,0 +1,57 @@
+nav{
+    background-color: transparent !important;
+}
+li{
+    list-style: none;
+    float:left;
+    background-color: transparent !important;
+    
+}
+li a{
+    color: #ffffff;
+    font-weight: 400;
+}
+
+body{
+    background-image: url(../images/coffee.jpg);
+}
+
+
+.jumbotron{
+    background-color: transparent !important;
+}
+div.form-group{
+    background: transparent !important;
+}
+
+.container{
+    display: block;
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.section{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+
+}/*
+#myVideo{
+    min-height: 100%;
+    min-width: 100%;
+    position: fixed;
+    right: 0;
+    left: 0;
+
+}
+*/
